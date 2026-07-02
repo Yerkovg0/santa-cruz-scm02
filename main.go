@@ -4,11 +4,11 @@ package main
 import (
 	"fmt"
 
-	"github.com/TU-USUARIO/santa-cruz-scm/internal/clientes"
-	"github.com/TU-USUARIO/santa-cruz-scm/internal/inventario"
-	"github.com/TU-USUARIO/santa-cruz-scm/internal/productos"
-	"github.com/TU-USUARIO/santa-cruz-scm/internal/reportes"
-	"github.com/TU-USUARIO/santa-cruz-scm/internal/usuarios"
+	"github.com/Yerkovg0/santa-cruz-scm02/internal/clientes"
+	"github.com/Yerkovg0/santa-cruz-scm02/internal/inventario"
+	"github.com/Yerkovg0/santa-cruz-scm02/internal/productos"
+	"github.com/Yerkovg0/santa-cruz-scm02/internal/reportes"
+	"github.com/Yerkovg0/santa-cruz-scm02/internal/usuarios"
 )
 
 func main() {
